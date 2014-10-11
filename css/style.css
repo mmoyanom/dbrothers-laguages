@@ -37,7 +37,8 @@ body {
 	text-transform: uppercase;
 	color: #3B3B3B;
 	text-decoration: none;
-	font-family: 'texgyreadventorregular';
+	/*font-family: 'texgyreadventorregular';*/
+	font-family: cursive;
 }
 /* search */
 .h_search{
